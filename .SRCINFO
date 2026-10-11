@@ -1,0 +1,15 @@
+pkgbase = habit-tui
+	pkgdesc = Local-first terminal habit tracker with weekly, monthly, graph, and totals views
+	pkgver = 0.2.0
+	pkgrel = 1
+	url = https://github.com/YOUR_GITHUB_USERNAME/habit-tui
+	arch = x86_64
+	arch = aarch64
+	license = MIT
+	makedepends = cargo
+	makedepends = rust
+	depends = gcc-libs
+	source = git+https://github.com/YOUR_GITHUB_USERNAME/habit-tui.git#tag=v${pkgver}
+	sha256sums = SKIP
+
+pkgname = habit-tui

@@ -1,0 +1,14 @@
+[package]
+name = "habit-tui"
+version = "0.2.0"
+edition = "2021"
+description = "Local-first terminal habit tracker with weekly, monthly, graph, and totals views"
+license = "MIT"
+
+[dependencies]
+anyhow = "1"
+chrono = { version = "0.4", features = ["serde"] }
+crossterm = "0.28"
+ratatui = "0.29"
+rusqlite = { version = "0.32", features = ["bundled", "chrono"] }
+csv = "1.3"
