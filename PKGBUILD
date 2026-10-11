@@ -4,11 +4,11 @@ pkgver=0.2.0
 pkgrel=1
 pkgdesc='Local-first terminal habit tracker with weekly, monthly, graph, and totals views'
 arch=('x86_64' 'aarch64')
-url='https://github.com/YOUR_GITHUB_USERNAME/habit-tui'
+url='https://github.com/illicit-sly-git/habit-tui'
 license=('MIT')
 depends=('gcc-libs')
 makedepends=('cargo' 'rust')
-source=("git+https://github.com/YOUR_GITHUB_USERNAME/habit-tui.git#tag=v${pkgver}")
+source=("git+https://github.com/illicit-sly-git/habit-tui.git#tag=v${pkgver}")
 sha256sums=('SKIP')
 
 prepare() {
