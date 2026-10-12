@@ -1,4 +1,4 @@
-# Maintainer: YOUR NAME <YOUR EMAIL>
+# Maintainer: Jibith <other.private.uses@gmail.com>
 pkgname=habit-tui
 pkgver=0.2.1
 pkgrel=1
