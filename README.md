@@ -1,5 +1,9 @@
 # Habit TUI
 
+<img width="1828" height="1091" alt="image" src="https://github.com/user-attachments/assets/ceea0f66-e3e7-408c-a227-35a487997e9b" />
+<img width="1835" height="1100" alt="image" src="https://github.com/user-attachments/assets/956186f8-2ba8-4555-98d4-e6bd026337ce" />
+
+
 A TUI habit tracker written in Rust. Habit TUI has a compact monochrome interface inspired by a hand-drawn layout, with weekly and monthly tracking, graphs, period totals, and mouse support. Well isn't there already enough of these habit trackers already? Yes there is but I could never stick to one because I can't stick to boring stuff, maybe that's just me. This app is not for everyone. It is for people who opens their laptop everyday, for work, for gaming, or whatever. Why would you use this? Just because it's cool I guess. I made it for myself and I started to keep up with my habits just because I wanted the monthly graph to look cool. This app is for that kind of people. Do it for the joy of it people. The motivation or will power is only in the mind. As long as the rest of you doesn't align with that, you'll fail. So align yourself by using fun !! GOOD DAY !
 
 - **Repository:** https://github.com/illicit-sly-git/habit-tui
