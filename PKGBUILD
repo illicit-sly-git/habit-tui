@@ -1,13 +1,13 @@
 # Maintainer: YOUR NAME <YOUR EMAIL>
 pkgname=habit-tui
-pkgver=0.2.0
+pkgver=0.2.1
 pkgrel=1
 pkgdesc='Local-first terminal habit tracker with weekly, monthly, graph, and totals views'
 arch=('x86_64' 'aarch64')
 url='https://github.com/illicit-sly-git/habit-tui'
 license=('MIT')
-depends=('gcc-libs')
-makedepends=('cargo' 'rust')
+depends=('gcc-libs' 'sqlite')
+makedepends=('cargo' 'rust' 'pkgconf')
 source=("git+https://github.com/illicit-sly-git/habit-tui.git#tag=v${pkgver}")
 sha256sums=('SKIP')
 
